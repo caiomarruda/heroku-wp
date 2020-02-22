@@ -1,6 +1,6 @@
 {
   "name": "WordPress on Heroku",
-  "description": "A template for installing and running WordPress on Heroku - Caio",
+  "description": "A template for installing and running WordPress on Heroku - Fork caiomarruda",
   "keywords": [ "PHP", "WordPress", "Blog", "CMS" ],
   "website": "https://github.com/caiomarruda/heroku-wp",
   "repository": "https://github.com/caiomarruda/heroku-wp",
